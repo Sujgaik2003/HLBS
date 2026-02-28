@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Poppins:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: #F8F9FA;
+    --foreground: #0A192F;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-offwhite text-navy font-body antialiased;
+  }
+
+  ::selection {
+    @apply bg-cyan/30 text-navy;
+  }
+}
+
+@layer components {
+  .section-padding {
+    @apply py-20 lg:py-28 px-4 sm:px-6 lg:px-8;
+  }
+
+  .container-max {
+    @apply max-w-7xl mx-auto;
+  }
+
+  .btn-primary {
+    @apply inline-flex items-center justify-center px-8 py-3.5 bg-cta-gradient text-white font-heading font-semibold rounded-lg shadow-lg shadow-saffron/25 hover:shadow-xl hover:shadow-saffron/30 hover:scale-[1.02] active:scale-[0.98] transition-all duration-300 ease-out;
+  }
+
+  .btn-secondary {
+    @apply inline-flex items-center justify-center px-8 py-3.5 border-2 border-cyan text-cyan font-heading font-semibold rounded-lg hover:bg-cyan/10 hover:scale-[1.02] active:scale-[0.98] transition-all duration-300 ease-out;
+  }
+
+  .btn-outline-white {
+    @apply inline-flex items-center justify-center px-8 py-3.5 border-2 border-white/30 text-white font-heading font-semibold rounded-lg hover:bg-white/10 hover:border-white/50 transition-all duration-300 ease-out;
+  }
+
+  .card-hover {
+    @apply bg-white rounded-2xl shadow-lg hover:shadow-2xl hover:-translate-y-2 transition-all duration-300 ease-out;
+  }
+
+  .glass-card {
+    @apply bg-white/5 backdrop-blur-xl border border-white/10 rounded-2xl;
+  }
+
+  .gradient-text {
+    @apply bg-clip-text text-transparent bg-accent-gradient;
+  }
+
+  .heading-xl {
+    @apply text-4xl sm:text-5xl lg:text-7xl font-heading font-bold leading-tight tracking-tight;
+  }
+
+  .heading-lg {
+    @apply text-3xl sm:text-4xl lg:text-5xl font-heading font-bold leading-tight;
+  }
+
+  .heading-md {
+    @apply text-2xl sm:text-3xl font-heading font-semibold leading-snug;
+  }
+
+  .heading-sm {
+    @apply text-xl sm:text-2xl font-heading font-semibold;
+  }
+
+  .text-body {
+    @apply text-base lg:text-lg leading-relaxed text-slate;
+  }
+
+  .section-label {
+    @apply text-sm uppercase tracking-[0.2em] font-heading font-semibold text-cyan mb-4;
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-navy-dark;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-cyan/30 rounded-full hover:bg-cyan/50;
+}
+
+/* Circuit pattern background */
+.circuit-bg {
+  background-image:
+    radial-gradient(circle at 25% 25%, rgba(100, 255, 218, 0.03) 0%, transparent 50%),
+    radial-gradient(circle at 75% 75%, rgba(255, 107, 53, 0.03) 0%, transparent 50%);
+}
+
+/* Particle effect base */
+.particles-bg::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image:
+    radial-gradient(2px 2px at 20% 30%, rgba(100, 255, 218, 0.15), transparent),
+    radial-gradient(2px 2px at 40% 70%, rgba(100, 255, 218, 0.1), transparent),
+    radial-gradient(2px 2px at 60% 40%, rgba(100, 255, 218, 0.12), transparent),
+    radial-gradient(2px 2px at 80% 20%, rgba(100, 255, 218, 0.08), transparent),
+    radial-gradient(2px 2px at 10% 80%, rgba(255, 107, 53, 0.08), transparent),
+    radial-gradient(2px 2px at 90% 60%, rgba(100, 255, 218, 0.1), transparent),
+    radial-gradient(1px 1px at 15% 50%, rgba(100, 255, 218, 0.15), transparent),
+    radial-gradient(1px 1px at 55% 15%, rgba(100, 255, 218, 0.1), transparent),
+    radial-gradient(1px 1px at 70% 85%, rgba(255, 107, 53, 0.06), transparent),
+    radial-gradient(1px 1px at 35% 90%, rgba(100, 255, 218, 0.08), transparent);
+  pointer-events: none;
+}
+
+/* Gradient line accent */
+.gradient-line {
+  @apply h-1 w-20 rounded-full bg-accent-gradient;
+}
+
+/* Stats number style */
+.stat-number {
+  @apply text-5xl lg:text-6xl font-heading font-bold text-cyan;
+}
+
+/* Smooth transition utility */
+.smooth-transition {
+  @apply transition-all duration-300 ease-out;
+}
