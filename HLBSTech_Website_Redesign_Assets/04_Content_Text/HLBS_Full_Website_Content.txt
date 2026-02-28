@@ -1,0 +1,429 @@
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                    HLBS TECH - FULL WEBSITE CONTENT                          ║
+║                        For Redesign Project                                  ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 1: COMPANY INFORMATION
+═══════════════════════════════════════════════════════════════════════════════
+
+COMPANY NAME:
+HLBS Tech (P) Ltd.
+
+TAGLINE:
+"Technologies for tomorrow"
+
+ESTABLISHED:
+December 2004
+
+HEADQUARTERS:
+243-B, Zone I, MP Nagar
+Bhopal (M.P.) - 462011
+India
+
+FACTORY ADDRESS:
+24/2D, Sector J.K, Road
+Industrial Area, Govindpura
+Bhopal
+
+CONTACT DETAILS:
+Phone:      0755-4082900, 0755-4074072
+Mobile:     +91 98265 27444, +91 8889955229, +91 8889933112
+Toll Free:  1800 270 1244
+Fax:        +91 755 4082906
+Email:      sales@hlbstech.com, hlbs@hlbstech.com, sales5@hlbstech.com
+GSTIN:      23AABCH5020R1ZL
+
+BRANDS:
+• HLBS (Primary Brand)
+• HINUM (Secondary Brand)
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 2: ABOUT US CONTENT
+═══════════════════════════════════════════════════════════════════════════════
+
+MAIN HEADLINE:
+Welcome to HLBS Technologies
+
+COMPANY INTRODUCTION:
+HLBS Tech (P) Ltd. was established in December 2004, with a vision of manufacturing of IT Hardware Products in India. Since then company has travelled in the direction to make India as an IT Manufacturing Hub. The company has innovative and high-tech products like Touch Screen Self-Service Kiosk, Electronic Lectern, Mini PC, Desktop PC, All in One PC (AIO) under the HLBS and HINUM brand and has served more than 5000 clients pan India. HLBS is putting continuous efforts in this direction, which have brought up the company to National Level from State Level within just 4 years of its birth.
+
+HLBS has achieved significant growth rate and this year we hope to continue the growth journey. HLBS owns a manufacturing unit in Bhopal and has planned an upcoming new state of the art manufacturing and R&D unit in Bhopal IT Park. It aims to develop innovative and high-tech products to serve domestic market and to provide the lowest "total cost" solution to increase the affordability of electronics products for all mankind, and the common masses in particular.
+
+MISSION STATEMENT:
+"Our Mission is to enhance our customer's by providing the very highest quality Products & Services"
+
+MISSION DESCRIPTION:
+Our customer support strategy is based upon, no compromise customer satisfaction and we have continually strive to offer a complete package of up-to-date value added solutions to meet our customer's needs. Above all, we value our long term customer relations.
+
+RESEARCH & DEVELOPMENT:
+HLBS has started its R&D cell to incubate start-up talents for developing innovative products to help various sectors like Medical, Education, Banking and Defence. With our technical expertise and highly trained R&D engineers, we can assure that each product under the banner of HLBS is at its best of its Quality and Reliability. The management of the company believes in accountability, decentralisation, empowerment, teamwork and delegation of authority for employees, and at the same time it keeps constant focus on the change in needs of the market and update itself of new technologies to satisfy those needs.
+
+SOLUTIONS DESCRIPTION:
+Solutions Unlimited, these two words sum up the essence of HLBS. We offer complete range of consistently high quality, cost effective solutions and services. Today, HLBS experiences a rapid and comprehensive development that covers an extensive range of products, which include computer peripheral, consumer electronics, education information, digital office supplies and software solutions. We pride ourselves not only on being a pioneer of producing State-of-Art computers and peripherals, but also have excellence in smart classroom, interactive teaching system, RFID based software solutions. HLBS has strong R&D team to develop uniquely designed solutions. We have both the experience and capabilities to meet client requirements.
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 3: PRODUCT CATEGORIES & DESCRIPTIONS
+═══════════════════════════════════════════════════════════════════════════════
+
+CATEGORY 1: WORKSTATIONS
+Model: HLBS CMW-1000T
+
+Variant 1: Intel Core Ultra 9 285K Configuration
+• Processor: Intel Core Ultra 9 285K, 24 Cores, 3.2 GHz Base, 36MB Cache
+• Chipset: Intel W880
+• Graphics: NVIDIA RTX 2000 Ada 16GB
+• OS: Genuine Windows 11 Professional
+• Memory: 128GB (4x32GB) DDR5 5600 MT/s Non ECC
+• Storage: 1x 1TB M.2 NVMe SSD
+• Display: 27" FHD (1920x1080) Non TCO Monitor
+• Connectivity: Intel AX211 Wi-Fi 6 + Bluetooth 5.3
+• Power Supply: 450Watts + 92% Efficiency
+• Model No: CMW1000T
+
+Variant 2: Intel Core i7-14700 Configuration
+• Processor: Intel Core i7-14700, 20 Cores, 2.1 GHz Base, 5.4 GHz Turbo, 33MB Cache
+• Chipset: Intel Q670
+• Graphics: NVIDIA RTX A400 4GB
+• OS: Windows 11 Professional
+• Memory: 16GB (1x16GB) DDR5 4800 Non ECC UDIMM
+• Storage: 1x 1TB M.2 NVMe SSD
+• Display: 23.8" FHD (1920x1080) TCO Monitor
+• Connectivity: Intel AX211 Wi-Fi 6E + Bluetooth 5.3
+• Power Supply: 500 Watts + 90% Efficiency
+• Model No: CMW1000T
+
+Variant 3: Intel Core i9-14900K Configuration
+• Processor: Intel Core i9-14900K
+• Chipset: Intel Q670
+• Graphics: NVIDIA RTX A400 4GB
+• OS: Windows 11 Professional
+• Memory: 1x32GB DDR5 4400 MHz Non ECC
+• Storage: 1x512GB M.2 NVMe SSD
+• Display: 23.8" FHD (1920x1080)
+• Power Supply: 500 Watts + 90% Efficiency
+• Model No: CMW1000T
+
+Variant 4: Intel Xeon Gold 6248 Configuration
+• Processor: Intel Xeon Gold 6248
+• Chipset: Intel C621 single socket
+• Graphics: Dedicated NVIDIA RTX A1000 8GB
+• OS: Ubuntu Linux
+• Memory: 1x64GB DDR4 2666 MHz ECC
+• Storage: 1x1TB M.2 NVMe SSD + 1x1TB SATA HDD
+• Display: 23.8" FHD (1920x1080)
+• Power Supply: 500 Watts + 80% Efficiency
+• Model No: CMW1000T
+
+Variant 5: Intel Core i9 14900K (High-end)
+• Processor: Intel Core i9 14900K
+• Chipset: Intel W680
+• Graphics: NVIDIA RTX 2000 16GB
+• OS: Windows 11 Professional
+• Memory: 1x32GB DDR5 5600 MHz Non ECC
+• Storage: 2x 1TB PCIe NVMe M.2 SSD
+• Display: 27" FHD (1920x1080)
+• Connectivity: Wi-Fi 6 (802.11ax) + Bluetooth 5.2
+• Optical: DVD/RW
+• Power Supply: 700 Watts + 92% Efficiency
+• Model No: CMW1000T
+
+Variant 6: Intel Xeon W9-3475X (Ultimate Workstation)
+• Processor: Intel Xeon W9-3475X, 36 Cores, 2.2 GHz Base, 4.8 GHz Turbo, 82.5MB Cache
+• Chipset: Intel W790
+• Graphics: NVIDIA RTX 4500 Ada Generation 24GB
+• OS: Windows 11 Professional
+• Memory: 512GB (8x64GB) DDR5 4800 MHz ECC (Support up to 1TB)
+• Storage: 2x1TB NVMe M.2 SSD + 2x2TB 7200RPM SATA
+• Expansion: 1x PCIe x4 Gen4, 3x PCIe x16 Gen4, 1x PCIe x8 Gen4
+• Network: Two LAN Ports - 1x 10GbE + 1x Gigabit
+• Display: 27" QHD (2560x1440) IPS Height Adjustable
+• Power Supply: 1125W 90% Efficiency
+• Security: TPM 2.0
+• Optical: DVD-RW
+
+Variant 7: Intel Xeon W3-2435
+• Processor: Intel Xeon W3-2435, 8 Cores, 3.1 GHz Base, 4.5 GHz Turbo
+• Chipset: Intel W790
+• Graphics: NVIDIA RTX A series 8GB
+• OS: Windows 11 Professional
+• Memory: 64GB DDR5 ECC RAM
+• Storage: 2x 2TB SSD
+• Security: TPM 2.0, SATA disablement, USB enable/disable, Power-on password
+• Network: Dual gigabit NIC 10/100/1000
+• Display: 58-61cm LED monitor 1920x1080
+• Power: 230V AC
+• Warranty: 3 Years
+
+Variant 8: Intel Core i9-13900
+• Processor: Intel Core i9-13900, 24 Cores, 2 GHz Base
+• Chipset: Intel W680
+• Graphics: NVIDIA T1000 8GB
+• OS: Windows 11 Professional
+• Memory: 64GB DDR5 4800 MHz Non ECC (Support up to 128GB)
+• Storage: 1TB SSD
+• Expansion: PCIe x1-1, PCIe x4-2
+• Network: Single Gigabit NIC 10/100/1000
+• I/O: 4x USB C, 1x HDMI, 1x Mini DP, 1x DP
+• Display: 60-71cm Non Touch 1920x1080
+• Warranty: 3 Years
+
+COMMON WORKSTATION FEATURES:
+• Enormous vision: Having wide range of LCD/LED/TFT Monitor for gargantuan output
+• Input on smirk: With an extensive range of stylish wired and wireless mouse & keyboard
+• Genuine Windows: Genuine Windows Software published by Microsoft and licensed and supported by Microsoft or an authorized licensor
+• World class care: Widespread support covering all locations in India
+
+---
+
+CATEGORY 2: DESKTOP COMPUTERS
+Model: HLBS CM44
+
+SKU Variants:
+• JWG-EMPC200 / JWG-2308YM
+• JWG-EMPC200 + JWG2308YM + EM 07 + EM90 VKG-Q60242Q + JWG2308YM + CK500 + CM513 (CS5500G)
+
+Features:
+• Wide range LCD/LED/TFT Monitor for gargantuan output
+• Extensive range of stylish wired and wireless mouse & keyboard
+• Genuine Windows Software
+• Widespread support covering all locations in India
+
+Common Specifications:
+• Form Factor: Tower/Desktop
+• OS: Windows 11 Professional
+• Warranty: 3 Years on-site OEM
+
+---
+
+CATEGORY 3: ALL-IN-ONE PCs
+Model: HLBS N24
+
+Variant 1: Intel Core i5-13500
+• Processor: Intel Core i5-13500, 14 Cores, 2.5 GHz Base, 24MB Cache
+• Chipset: Intel Q670
+• Graphics: Integrated Intel UHD
+• OS: Windows 11 Professional
+• Memory: 16GB DDR4 2666 MHz (Expandable to 64GB)
+• Storage: 1x 1024GB SSD
+• Display: 23.8" Non-Touch IPS 1920x1080
+• Webcam: FHD Integrated
+• Speakers: 2 Built-in Stereo
+• Wireless: Wi-Fi 6 AX200 + Bluetooth 5.0
+• LAN: Intel 10/100/1000 vPRO
+• I/O: 2x USB 2.0, 2x USB 3.1 Gen1, 3x USB 3.1 Gen2, 1x USB Type-C, 1x HDMI, 1x DP
+• Stand: Height Adjustable
+• Power: 200W 85-90% Efficiency
+• Certifications: BIS R-82000361, ROHS, CE, FCC
+
+Variant 2: Intel Core i7-14700 (14th Gen)
+• Processor: Intel Core i7-14700 (14th Gen)
+• Chipset: Intel Q670
+• Graphics: Integrated Intel UHD Graphics 770
+• OS: Windows 11 Professional
+• Memory: 32GB DDR5 4800 MHz (Support up to 64GB)
+• Storage: 1024GB NVMe SSD
+• Display: 23.8" Non-Touch Full HD LED
+• Webcam: Full HD
+• Speakers: Built-in Stereo
+• Wireless: Wi-Fi 6 (802.11ax) + Bluetooth 5.3
+• LAN: 10/100/1000 Gigabit
+• I/O: 1x HDMI out, 1x DP out, 2x USB 2.0, 1x USB 3.1 Gen2 Type-A, 1x USB 3.1 Gen1 Type-A, 1x USB 3.1 Gen1 Type-C, Universal Audio Jack
+• Stand: Height Adjustable
+• Power: External 150W
+• Certifications: ROHS, BIS, ISO 27001, ISO 14001, ISO 9001, ISO 50001, ISO 45001, ISO 20000:1, SA 8000, EPR, ZED
+
+---
+
+CATEGORY 4: MINI PCs
+Model: Daksh Mini-PC
+
+Features:
+• Modern design and sleek CPU
+• Range of colors available
+• Wide range of LCD/LED/TFT Monitors
+• Stylish wired and wireless mouse & keyboard
+• Genuine Windows Software
+• All India support
+
+---
+
+CATEGORY 5: INFORMATION KIOSK
+Model: INFOK
+
+Features:
+• Touch Screen Self-Service
+• Wide range of monitors
+• Complete peripheral support
+• Genuine Windows
+• All India support
+
+---
+
+CATEGORY 6: SERVERS
+Model: HLBS CMX2000T
+
+Type: Tower Server
+
+Specifications:
+• Form Factor: 4RU Tower
+• Processor: Intel Xeon Gold 6248
+• Sockets: 1 populated of 1 available
+• Chipset: Intel C Series
+• Memory: 64GB DDR4 ECC, 8 DIMM slots (1 populated)
+• Storage: 2x 960GB NVMe SSD (2 slots populated of 2 available)
+• Expansion: 1x PCIe x4, 1x PCIe x16
+• Network: 1x 1G LAN
+• USB: 2x USB 2.0, 2x USB 3.0
+• Video: VGA or above resolution support
+• OS: Windows Server 2022
+• Virtualization: Hyper-V certified
+• Management: Remote Power On/Shutdown
+• Security: Secure Boot (Firmware and BIOS Level)
+• Certifications: BIS CRS, RoHS, ISO, EPR
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 4: SOLUTIONS & SERVICES
+═══════════════════════════════════════════════════════════════════════════════
+
+SOLUTIONS OVERVIEW:
+Solutions Unlimited, these two words sum up the essence of HLBS. We offer complete range of consistently high quality, cost effective solutions and services. Today, HLBS experiences a rapid and comprehensive development that covers an extensive range of products. Which include computers, information kiosk, peripheral, consumer electronics, education information, digital office supplies and software solutions. We pride ourselves not only on being a pioneer of producing State-of-Art computers and peripherals, but also have excellence in Smart Classroom, Interactive Teaching System, RFID based software solutions. HLBS has strong R&D team to develop uniquely designed solutions. We have both the experience and capabilities to meet client requirements.
+
+VERTICAL SOLUTIONS:
+1. Education Sector
+   • Smart Classroom Solutions
+   • Interactive Teaching Systems
+   • Computer Labs
+   • Digital Libraries
+
+2. Government & PSUs
+   • E-Governance Kiosks
+   • Departmental Computing
+   • Public Service Centers
+
+3. Healthcare
+   • Hospital Information Systems
+   • Diagnostic Equipment Integration
+   • Patient Kiosks
+
+4. Banking & Finance
+   • Branch Automation
+   • Customer Service Kiosks
+   • Back-office Computing
+
+5. Defense
+   • Secure Computing Solutions
+   • Ruggedized Systems
+   • Custom Hardware
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 5: CERTIFICATIONS & COMPLIANCE
+═══════════════════════════════════════════════════════════════════════════════
+
+QUALITY CERTIFICATIONS:
+• ISO 9001:2015 - Quality Management Systems
+• ISO 14001:2015 - Environmental Management Systems
+• ISO 27001:2013 - Information Security Management
+• ISO 50001:2011 - Energy Management Systems
+• ISO 45001:2018 - Occupational Health & Safety
+• ISO 20000:1 - IT Service Management
+• SA 8000 - Social Accountability
+
+PRODUCT CERTIFICATIONS:
+• CE Certification (European Conformity)
+• FCC Certification (Federal Communications Commission)
+• ROHS Compliance (Restriction of Hazardous Substances)
+• BIS Certification (Bureau of Indian Standards)
+• EPR Authorization (Extended Producer Responsibility)
+• ZED Certification (Zero Defect Zero Effect)
+
+REGISTRATIONS:
+• Make in India Registered
+• MSME Registered
+• GST Registered (23AABCH5020R1ZL)
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 6: KEY PERSONNEL
+═══════════════════════════════════════════════════════════════════════════════
+
+SALES TEAM:
+• Nitin Sahu - Sales Manager
+  Mobile: +91-8889933112
+  Email: sales5@hlbstech.com
+
+• Rashmi Dhote - General Manager
+  Mobile: +91-9826527444
+  Email: rashmi@hlbstech.com
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 7: VALUE PROPOSITIONS & USPs
+═══════════════════════════════════════════════════════════════════════════════
+
+KEY VALUE PROPOSITIONS:
+1. Make in India - Indigenous manufacturing supporting Atmanirbhar Bharat
+2. Lowest Total Cost of Ownership
+3. Wide range of consistently high quality products
+4. Complete range of computer peripherals and consumer electronics
+5. Smart classroom and interactive teaching systems expertise
+6. RFID based software solutions
+7. Strong R&D team for uniquely designed solutions
+8. 5000+ clients served pan India
+9. National level presence within 4 years of establishment
+10. State of the art manufacturing and R&D unit in Bhopal IT Park (upcoming)
+
+UNIQUE SELLING POINTS:
+• 20+ Years of Excellence (Since 2004)
+• Bhopal, MP Based Manufacturing
+• Government and Education Sector Focus
+• HLBS + HINUM Dual Brand Strategy
+• Pan India Support Network
+• ISO Certified Manufacturing
+• Make in India Certified
+• Custom Hardware Solutions
+• Rapid Turnaround on Bespoke Orders
+• Local Support Advantage
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 8: WEBSITE COPY & MESSAGING
+═══════════════════════════════════════════════════════════════════════════════
+
+HOME PAGE HERO OPTIONS:
+
+Option 1:
+"Technologies for Tomorrow"
+"Made in India IT Hardware Solutions Since 2004"
+
+Option 2:
+"Empowering India's Digital Future"
+"High-Performance Computing Made in Bhopal"
+
+Option 3:
+"Innovation Made in India"
+"Workstations, Desktops & Solutions for Every Need"
+
+SUB-HEADLINES:
+• "Serving 5000+ clients across India with world-class IT hardware"
+• "From Bhopal to nationwide - 20 years of manufacturing excellence"
+• "ISO Certified | Make in India | 3-Year Warranty"
+
+CALL TO ACTION BUTTONS:
+• "Explore Products"
+• "Request Quote"
+• "Contact Sales"
+• "Download Brochure"
+
+TRUST BADGES TEXT:
+• "20+ Years Experience"
+• "5000+ Happy Clients"
+• "Pan India Support"
+• "ISO Certified"
+• "Make in India"
+
+FOOTER TEXT:
+"HLBS Tech (P) Ltd. © 2025. All Rights Reserved."
+"Made with pride in Bhopal, Madhya Pradesh, India"
+
+═══════════════════════════════════════════════════════════════════════════════
+END OF CONTENT DOCUMENT
+═══════════════════════════════════════════════════════════════════════════════

@@ -1,0 +1,348 @@
+{
+  "website_name": "HLBS Tech (P) Ltd",
+  "base_url": "https://hlbstech.com",
+  "version": "1.0",
+  "last_updated": "2025-02-27",
+  "pages": {
+    "home": {
+      "url": "/",
+      "title": "HLBS - Technologies for Tomorrow | Made in India IT Hardware",
+      "meta_description": "HLBS Tech - Leading manufacturer of Desktop PCs, All-in-One PCs, Mini PCs, Workstations, and KIOSKs. Made in India since 2004.",
+      "priority": "1.0",
+      "changefreq": "weekly",
+      "sections": [
+        "Hero Banner with Video/Animation",
+        "Product Categories Grid",
+        "Make in India Badge",
+        "Featured Products Carousel",
+        "Why Choose HLBS",
+        "Industries Served",
+        "Client Logos",
+        "Testimonials",
+        "News/Updates",
+        "Contact CTA"
+      ]
+    },
+    "about_us": {
+      "url": "/about-us/",
+      "title": "About Us | HLBS Tech - 20+ Years of Excellence",
+      "meta_description": "Learn about HLBS Tech's journey since 2004. Manufacturer of quality IT hardware products in Bhopal, Madhya Pradesh.",
+      "priority": "0.9",
+      "sections": [
+        "Company Overview",
+        "Our Mission & Vision",
+        "Company History Timeline",
+        "Manufacturing Facility",
+        "R&D Capabilities",
+        "Quality Assurance",
+        "Leadership Team",
+        "Awards & Recognition"
+      ]
+    },
+    "our_brand": {
+      "url": "/our-brand/",
+      "title": "Our Brands | HLBS & HINUM",
+      "meta_description": "Discover HLBS and HINUM brands - Premium IT hardware solutions made in India.",
+      "priority": "0.8",
+      "sections": [
+        "HLBS Brand Story",
+        "HINUM Brand Story",
+        "Brand Values",
+        "Product Portfolio by Brand"
+      ]
+    },
+    "certifications": {
+      "url": "/certifications/",
+      "title": "Certifications | ISO, BIS, CE, FCC, ROHS",
+      "meta_description": "HLBS is certified with ISO 9001, ISO 14001, ISO 27001, BIS, CE, FCC, and ROHS certifications.",
+      "priority": "0.8",
+      "sections": [
+        "ISO Certifications Grid",
+        "Product Certifications",
+        "Quality Standards",
+        "Compliance Documents",
+        "Make in India Certification"
+      ]
+    },
+    "products_main": {
+      "url": "/products/",
+      "title": "IT Products | Workstations & Desktops",
+      "meta_description": "Explore HLBS range of Workstations and Desktop Computers. High-performance computing solutions made in India.",
+      "priority": "0.9",
+      "sections": [
+        "Product Category Filter",
+        "Workstations Grid",
+        "Desktop Computers Grid",
+        "Compare Products",
+        "Specifications Table",
+        "Download Datasheets"
+      ]
+    },
+    "products_2": {
+      "url": "/products-2/",
+      "title": "IT Products | Mini-PC & KIOSK",
+      "meta_description": "Compact Mini-PCs and Interactive KIOSK solutions for business and government.",
+      "priority": "0.9",
+      "sections": [
+        "Mini-PC Products",
+        "Information KIOSK",
+        "Electronic Lectern",
+        "Thin Clients",
+        "Specialized Solutions"
+      ]
+    },
+    "shop": {
+      "url": "/shop/",
+      "title": "Product Shop | Buy HLBS Products Online",
+      "meta_description": "Browse and request quotes for HLBS products. Enterprise and government procurement.",
+      "priority": "0.8",
+      "sections": [
+        "Product Catalog",
+        "Filter by Category",
+        "Product Cards",
+        "Request Quote Form",
+        "Bulk Order Options"
+      ]
+    },
+    "solutions": {
+      "url": "/solutions/",
+      "title": "Solutions | Smart Classroom, KIOSK, RFID",
+      "meta_description": "Complete IT solutions including Smart Classrooms, Interactive Teaching Systems, and RFID solutions.",
+      "priority": "0.9",
+      "sections": [
+        "Solutions Overview",
+        "Smart Classroom Solutions",
+        "Interactive Teaching System",
+        "RFID Based Solutions",
+        "Government Solutions",
+        "Education Solutions",
+        "Healthcare Solutions",
+        "Banking Solutions"
+      ]
+    },
+    "projects": {
+      "url": "/projects/",
+      "title": "Projects | Government & Enterprise Deployments",
+      "meta_description": "Case studies of successful HLBS product deployments across India.",
+      "priority": "0.7",
+      "sections": [
+        "Project Gallery",
+        "Government Projects",
+        "Education Sector Projects",
+        "Healthcare Projects",
+        "Corporate Projects",
+        "Testimonials"
+      ]
+    },
+    "downloads": {
+      "url": "/downloads/",
+      "title": "Downloads | Drivers, Manuals, Datasheets",
+      "meta_description": "Download HLBS product drivers, user manuals, datasheets, and brochures.",
+      "priority": "0.7",
+      "sections": [
+        "Driver Downloads",
+        "User Manuals",
+        "Product Datasheets",
+        "Brochures",
+        "Company Profile"
+      ]
+    },
+    "drivers": {
+      "url": "/drivers/",
+      "title": "Drivers | Support Downloads",
+      "meta_description": "Download latest drivers for HLBS products. Windows and Linux support.",
+      "priority": "0.7",
+      "sections": [
+        "Driver Search",
+        "Windows Drivers",
+        "Linux Drivers",
+        "BIOS Updates",
+        "Firmware Updates"
+      ]
+    },
+    "contact": {
+      "url": "/contact/",
+      "title": "Contact Us | HLBS Tech Bhopal",
+      "meta_description": "Contact HLBS Tech for sales, support, and partnership inquiries. Bhopal, Madhya Pradesh.",
+      "priority": "0.9",
+      "sections": [
+        "Contact Form",
+        "Office Address",
+        "Factory Address",
+        "Phone Numbers",
+        "Email Contacts",
+        "Map Location",
+        "Business Hours"
+      ]
+    }
+  },
+  "product_detail_pages": {
+    "workstation_cmw1000t": {
+      "url": "/product/workstation-cmw1000t/",
+      "title": "HLBS CMW-1000T Workstation | High-Performance Computing",
+      "variants": [
+        "Intel Core Ultra 9",
+        "Intel Core i7-14700",
+        "Intel Core i9-14900K",
+        "Intel Xeon Gold",
+        "Intel Xeon W9-3475X"
+      ],
+      "priority": "0.8"
+    },
+    "desktop_cm44": {
+      "url": "/product/desktop-cm44/",
+      "title": "HLBS CM44 Desktop | Reliable Business Computing",
+      "priority": "0.8"
+    },
+    "aio_n24": {
+      "url": "/product/aio-n24/",
+      "title": "HLBS N24 All-in-One PC | Space-Saving Design",
+      "variants": [
+        "Intel Core i5-13500",
+        "Intel Core i7-14700"
+      ],
+      "priority": "0.8"
+    },
+    "mini_pc_daksh": {
+      "url": "/product/mini-pc-daksh/",
+      "title": "Daksh Mini-PC | Compact Computing Power",
+      "priority": "0.8"
+    },
+    "server_cmx2000t": {
+      "url": "/product/server-cmx2000t/",
+      "title": "HLBS CMX2000T Server | Enterprise Computing",
+      "priority": "0.7"
+    },
+    "kiosk_infok": {
+      "url": "/product/kiosk-infok/",
+      "title": "INFOK Information Kiosk | Self-Service Solution",
+      "priority": "0.7"
+    }
+  },
+  "support_pages": {
+    "complaint_register": {
+      "url": "/complaint-register/",
+      "title": "Complaint Register | Customer Support",
+      "priority": "0.6"
+    },
+    "services_warranty": {
+      "url": "/services-and-warranty/",
+      "title": "Services & Warranty | HLBS Support",
+      "priority": "0.7"
+    },
+    "online_diagnostic": {
+      "url": "/online-diagnostic-tool/",
+      "title": "Online Diagnostic Tool | Troubleshooting",
+      "priority": "0.6"
+    },
+    "windows_certification": {
+      "url": "/windows-certification/",
+      "title": "Windows Certification | Genuine Software",
+      "priority": "0.5"
+    },
+    "linux_certifications": {
+      "url": "/linux-certifications/",
+      "title": "Linux Certifications | Open Source Support",
+      "priority": "0.5"
+    },
+    "recovery_image": {
+      "url": "/recovery-image/",
+      "title": "Recovery Image | System Restore",
+      "priority": "0.6"
+    }
+  },
+  "navigation_structure": {
+    "primary_menu": [
+      {
+        "label": "Home",
+        "url": "/",
+        "icon": "home"
+      },
+      {
+        "label": "About Us",
+        "url": "/about-us/",
+        "dropdown": [
+          {
+            "label": "Our Profile",
+            "url": "/about-us/"
+          },
+          {
+            "label": "Core Team",
+            "url": "/about-us/#team"
+          },
+          {
+            "label": "Our Brand",
+            "url": "/our-brand/"
+          },
+          {
+            "label": "Certifications",
+            "url": "/certifications/"
+          }
+        ]
+      },
+      {
+        "label": "Products & Solutions",
+        "url": "/products/",
+        "dropdown": [
+          {
+            "label": "Solutions",
+            "url": "/solutions/"
+          },
+          {
+            "label": "IT Products",
+            "url": "/products/"
+          },
+          {
+            "label": "IT Products 2",
+            "url": "/products-2/"
+          },
+          {
+            "label": "Projects",
+            "url": "/projects/"
+          }
+        ]
+      },
+      {
+        "label": "Media",
+        "url": "/news/",
+        "dropdown": [
+          {
+            "label": "News",
+            "url": "/news/"
+          },
+          {
+            "label": "Downloads",
+            "url": "/downloads/"
+          }
+        ]
+      },
+      {
+        "label": "Support",
+        "url": "/services-and-warranty/",
+        "dropdown": [
+          {
+            "label": "Complaint Register",
+            "url": "/complaint-register/"
+          },
+          {
+            "label": "Services & Warranty",
+            "url": "/services-and-warranty/"
+          },
+          {
+            "label": "Online Diagnostic Tool",
+            "url": "/online-diagnostic-tool/"
+          },
+          {
+            "label": "Drivers",
+            "url": "/drivers/"
+          }
+        ]
+      },
+      {
+        "label": "Contact Us",
+        "url": "/contact/",
+        "highlight": true
+      }
+    ]
+  }
+}

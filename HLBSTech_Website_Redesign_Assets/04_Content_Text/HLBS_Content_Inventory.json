@@ -1,0 +1,413 @@
+{
+  "website_name": "HLBS Tech (P) Ltd",
+  "base_url": "https://hlbstech.com",
+  "scraped_date": "2025-02-27",
+  "company_info": {
+    "full_name": "HLBS Tech (P) Ltd.",
+    "established": "December 2004",
+    "headquarters": "243-B, Zone I, MP Nagar, Bhopal (M.P.) - 462011",
+    "factory_address": "24/2D, Sector J.K, Road, Industrial Area, Govindpura, Bhopal",
+    "phone": "0755-4082900, 0755-4074072",
+    "mobile": "+91 98265 27444, +91 8889955229, +91 8889933112",
+    "email": "sales@hlbstech.com, hlbs@hlbstech.com, sales5@hlbstech.com",
+    "toll_free": "1800 270 1244",
+    "fax": "+91 755 4082906",
+    "gstin": "23AABCH5020R1ZL",
+    "brands": [
+      "HLBS",
+      "HINUM"
+    ],
+    "certifications": [
+      "ISO 9001",
+      "ISO 14001",
+      "ISO 27001",
+      "ISO 50001",
+      "ISO 45001",
+      "ISO 20000:1",
+      "SA 8000",
+      "CE",
+      "FCC",
+      "ROHS",
+      "BIS",
+      "EPR",
+      "ZED"
+    ]
+  },
+  "website_structure": {
+    "main_pages": [
+      {
+        "url": "/",
+        "title": "Home",
+        "priority": "high"
+      },
+      {
+        "url": "/about-us/",
+        "title": "About Us",
+        "priority": "high"
+      },
+      {
+        "url": "/our-brand/",
+        "title": "Our Brand",
+        "priority": "medium"
+      },
+      {
+        "url": "/certifications/",
+        "title": "Certifications",
+        "priority": "medium"
+      },
+      {
+        "url": "/contact/",
+        "title": "Contact",
+        "priority": "high"
+      },
+      {
+        "url": "/contact-us/",
+        "title": "Contact Us",
+        "priority": "high"
+      }
+    ],
+    "product_pages": [
+      {
+        "url": "/products/",
+        "title": "IT Products",
+        "category": "Workstations, Desktops"
+      },
+      {
+        "url": "/products-2/",
+        "title": "IT Products 2",
+        "category": "Mini-PC, KIOSK"
+      },
+      {
+        "url": "/shop/",
+        "title": "Products Shop",
+        "category": "All Products"
+      }
+    ],
+    "solution_pages": [
+      {
+        "url": "/solutions/",
+        "title": "Solutions",
+        "priority": "high"
+      },
+      {
+        "url": "/projects/",
+        "title": "Projects",
+        "priority": "medium"
+      }
+    ],
+    "support_pages": [
+      {
+        "url": "/downloads/",
+        "title": "Downloads",
+        "priority": "medium"
+      },
+      {
+        "url": "/drivers/",
+        "title": "Drivers",
+        "priority": "medium"
+      }
+    ]
+  },
+  "products": {
+    "workstations": [
+      {
+        "model": "HLBS CMW-1000T",
+        "variants": [
+          {
+            "config": "Intel Core Ultra 9 285K",
+            "specs": {
+              "processor": "Intel Core Ultra 9 285K, 24 Cores, 3.2 GHz Base, 36MB Cache",
+              "chipset": "Intel W880",
+              "graphics": "NVIDIA RTX 2000 Ada 16GB",
+              "os": "Windows 11 Professional",
+              "memory": "128GB (4x32GB) DDR5 5600 MT/s Non ECC",
+              "storage": "1x 1TB M.2 NVMe SSD",
+              "display": "27\" FHD (1920x1080) Non TCO",
+              "power_supply": "450W 92% Efficiency",
+              "connectivity": "Intel AX211 Wi-Fi 6 + Bluetooth 5.3"
+            }
+          },
+          {
+            "config": "Intel Core i7-14700",
+            "specs": {
+              "processor": "Intel Core i7-14700, 20 Cores, 2.1 GHz Base, 5.4 GHz Turbo, 33MB Cache",
+              "chipset": "Intel Q670",
+              "graphics": "NVIDIA RTX A400 4GB",
+              "os": "Windows 11 Professional",
+              "memory": "16GB (1x16GB) DDR5 4800 Non ECC",
+              "storage": "1x 1TB M.2 NVMe SSD",
+              "display": "23.8\" FHD (1920x1080) TCO",
+              "power_supply": "500W 90% Efficiency",
+              "connectivity": "Intel AX211 Wi-Fi 6E + Bluetooth 5.3"
+            }
+          },
+          {
+            "config": "Intel Core i9-14900K",
+            "specs": {
+              "processor": "Intel Core i9-14900K",
+              "chipset": "Intel Q670",
+              "graphics": "NVIDIA RTX A400 4GB",
+              "os": "Windows 11 Professional",
+              "memory": "1x32GB DDR5 4400 MHz Non ECC",
+              "storage": "1x512GB M.2 NVMe SSD",
+              "display": "23.8\" FHD (1920x1080)",
+              "power_supply": "500W 90% Efficiency"
+            }
+          },
+          {
+            "config": "Intel Xeon Gold 6248",
+            "specs": {
+              "processor": "Intel Xeon Gold 6248",
+              "chipset": "Intel C621 single socket",
+              "graphics": "NVIDIA RTX A1000 8GB",
+              "os": "Ubuntu Linux",
+              "memory": "1x64GB DDR4 2666 MHz ECC",
+              "storage": "1x1TB M.2 NVMe SSD + 1x1TB SATA HDD",
+              "display": "23.8\" FHD (1920x1080)",
+              "power_supply": "500W 80% Efficiency"
+            }
+          },
+          {
+            "config": "Intel Core i9 14900K (High-end)",
+            "specs": {
+              "processor": "Intel Core i9 14900K",
+              "chipset": "Intel W680",
+              "graphics": "NVIDIA RTX 2000 16GB",
+              "os": "Windows 11 Professional",
+              "memory": "1x32GB DDR5 5600 MHz Non ECC",
+              "storage": "2x 1TB PCIe NVMe M.2 SSD",
+              "display": "27\" FHD (1920x1080)",
+              "power_supply": "700W 92% Efficiency",
+              "connectivity": "Wi-Fi 6 (802.11ax) + Bluetooth 5.2",
+              "optical": "DVD/RW"
+            }
+          },
+          {
+            "config": "Intel Xeon W9-3475X (Ultimate)",
+            "specs": {
+              "processor": "Intel Xeon W9-3475X, 36 Cores, 2.2 GHz Base, 4.8 GHz Turbo, 82.5MB Cache",
+              "chipset": "Intel W790",
+              "graphics": "NVIDIA RTX 4500 Ada Generation 24GB",
+              "os": "Windows 11 Professional",
+              "memory": "512GB (8x64GB) DDR5 4800 MHz ECC, Support up to 1TB",
+              "storage": "2x1TB NVMe M.2 SSD + 2x2TB 7200RPM SATA",
+              "expansion": "1x PCIe x4 Gen4, 3x PCIe x16 Gen4, 1x PCIe x8 Gen4",
+              "network": "Two LAN Ports - 1x 10GbE + 1x Gigabit",
+              "display": "27\" QHD (2560x1440) IPS Height Adjustable",
+              "power_supply": "1125W 90% Efficiency",
+              "security": "TPM 2.0",
+              "optical": "DVD-RW"
+            }
+          },
+          {
+            "config": "Intel Xeon W3-2435",
+            "specs": {
+              "processor": "Intel Xeon W3-2435, 8 Cores, 3.1 GHz Base, 4.5 GHz Turbo",
+              "chipset": "Intel W790",
+              "graphics": "NVIDIA RTX A series 8GB",
+              "os": "Windows 11 Professional",
+              "memory": "64GB DDR5 ECC RAM",
+              "storage": "2x 2TB SSD",
+              "security": "TPM 2.0, SATA disablement, USB enable/disable, Power-on password",
+              "network": "Dual gigabit NIC 10/100/1000",
+              "display": "58-61cm LED monitor 1920x1080",
+              "power_supply": "230V AC",
+              "warranty": "3 Years"
+            }
+          },
+          {
+            "config": "Intel Core i9-13900",
+            "specs": {
+              "processor": "Intel Core i9-13900, 24 Cores, 2 GHz Base",
+              "chipset": "Intel W680",
+              "graphics": "NVIDIA T1000 8GB",
+              "os": "Windows 11 Professional",
+              "memory": "64GB DDR5 4800 MHz Non ECC, Support up to 128GB",
+              "storage": "1TB SSD",
+              "expansion": "PCIe x1-1, PCIe x4-2",
+              "network": "Single Gigabit NIC 10/100/1000",
+              "io": "4x USB C, 1x HDMI, 1x Mini DP, 1x DP",
+              "display": "60-71cm Non Touch 1920x1080",
+              "warranty": "3 Years"
+            }
+          }
+        ]
+      }
+    ],
+    "desktop_computers": [
+      {
+        "model": "HLBS CM44",
+        "variants": [
+          {
+            "sku": "JWG-EMPC200 / JWG-2308YM",
+            "features": [
+              "Wide range LCD/LED/TFT Monitors",
+              "Stylish wired/wireless mouse & keyboard",
+              "Genuine Windows",
+              "All India support"
+            ]
+          },
+          {
+            "sku": "JWG-EMPC200 + JWG2308YM + EM 07 + EM90 VKG-Q60242Q + JWG2308YM + CK500 + CM513 (CS5500G)",
+            "features": [
+              "Complete desktop solution",
+              "Multiple monitor options",
+              "Full peripherals included"
+            ]
+          }
+        ],
+        "common_specs": {
+          "form_factor": "Tower/Desktop",
+          "os": "Windows 11 Professional",
+          "warranty": "3 Years on-site OEM"
+        }
+      }
+    ],
+    "all_in_one_pc": [
+      {
+        "model": "HLBS N24",
+        "variants": [
+          {
+            "config": "Intel Core i5-13500",
+            "specs": {
+              "processor": "Intel Core i5-13500, 14 Cores, 2.5 GHz Base, 24MB Cache",
+              "chipset": "Intel Q670",
+              "graphics": "Integrated Intel UHD",
+              "os": "Windows 11 Professional",
+              "memory": "16GB DDR4 2666 MHz, Expandable to 64GB",
+              "storage": "1x 1024GB SSD",
+              "display": "23.8\" Non-Touch IPS 1920x1080",
+              "webcam": "FHD Integrated",
+              "speakers": "2 Built-in Stereo",
+              "wireless": "Wi-Fi 6 AX200 + Bluetooth 5.0",
+              "lan": "Intel 10/100/1000 vPRO",
+              "io": "2x USB 2.0, 2x USB 3.1 Gen1, 3x USB 3.1 Gen2, 1x USB Type-C, 1x HDMI, 1x DP",
+              "stand": "Height Adjustable",
+              "power": "200W 85-90% Efficiency",
+              "certifications": "BIS R-82000361, ROHS, CE, FCC"
+            }
+          },
+          {
+            "config": "Intel Core i7-14700 (14th Gen)",
+            "specs": {
+              "processor": "Intel Core i7-14700 (14th Gen)",
+              "chipset": "Intel Q670",
+              "graphics": "Integrated Intel UHD Graphics 770",
+              "os": "Windows 11 Professional",
+              "memory": "32GB DDR5 4800 MHz, Support up to 64GB",
+              "storage": "1024GB NVMe SSD",
+              "display": "23.8\" Non-Touch Full HD LED",
+              "webcam": "Full HD",
+              "speakers": "Built-in Stereo",
+              "wireless": "Wi-Fi 6 (802.11ax) + Bluetooth 5.3",
+              "lan": "10/100/1000 Gigabit",
+              "io": "1x HDMI out, 1x DP out, 2x USB 2.0, 1x USB 3.1 Gen2 Type-A, 1x USB 3.1 Gen1 Type-A, 1x USB 3.1 Gen1 Type-C, Universal Audio Jack",
+              "stand": "Height Adjustable",
+              "power": "External 150W",
+              "certifications": "ROHS, BIS, ISO 27001, ISO 14001, ISO 9001, ISO 50001, ISO 45001, ISO 20000:1, SA 8000, EPR, ZED"
+            }
+          }
+        ]
+      }
+    ],
+    "mini_pc": [
+      {
+        "model": "Daksh Mini-PC",
+        "features": [
+          "Modern design and sleek CPU",
+          "Range of colors available",
+          "Wide range of LCD/LED/TFT Monitors",
+          "Stylish wired and wireless mouse & keyboard",
+          "Genuine Windows Software",
+          "All India support"
+        ]
+      }
+    ],
+    "specialized_solutions": [
+      {
+        "category": "Information KIOSK",
+        "model": "INFOK",
+        "features": [
+          "Touch Screen Self-Service",
+          "Wide range of monitors",
+          "Complete peripheral support",
+          "Genuine Windows",
+          "All India support"
+        ]
+      },
+      {
+        "category": "Electronic Lectern",
+        "features": [
+          "Interactive teaching system",
+          "Smart classroom solution",
+          "RFID based software solutions"
+        ]
+      },
+      {
+        "category": "Thin Clients",
+        "features": [
+          "Enterprise virtualization support",
+          "Centralized management",
+          "Secure computing"
+        ]
+      }
+    ],
+    "servers": [
+      {
+        "model": "HLBS CMX2000T",
+        "type": "Tower Server",
+        "specs": {
+          "form_factor": "4RU Tower",
+          "processor": "Intel Xeon Gold 6248",
+          "sockets": "1 populated of 1 available",
+          "chipset": "Intel C Series",
+          "memory": "64GB DDR4 ECC, 8 DIMM slots (1 populated)",
+          "storage": "2x 960GB NVMe SSD (2 slots populated of 2 available)",
+          "expansion": "1x PCIe x4, 1x PCIe x16",
+          "network": "1x 1G LAN",
+          "usb": "2x USB 2.0, 2x USB 3.0",
+          "video": "VGA or above resolution support",
+          "os": "Windows Server 2022",
+          "virtualization": "Hyper-V certified",
+          "management": "Remote Power On/Shutdown",
+          "security": "Secure Boot (Firmware and BIOS Level)",
+          "certifications": "BIS CRS, RoHS, ISO, EPR"
+        }
+      }
+    ]
+  },
+  "key_personnel": [
+    {
+      "name": "Nitin Sahu",
+      "role": "Sales Manager",
+      "contact": "+91-8889933112",
+      "email": "sales5@hlbstech.com"
+    },
+    {
+      "name": "Rashmi Dhote",
+      "role": "General Manager",
+      "contact": "+91-9826527444",
+      "email": "rashmi@hlbstech.com"
+    }
+  ],
+  "value_propositions": [
+    "Make in India - Indigenous manufacturing",
+    "Lowest total cost of ownership",
+    "Wide range of consistently high quality products",
+    "Complete range of computer peripherals and consumer electronics",
+    "Smart classroom and interactive teaching systems",
+    "RFID based software solutions",
+    "Strong R&D team for uniquely designed solutions",
+    "5000+ clients served pan India",
+    "National level presence within 4 years of establishment",
+    "State of the art manufacturing and R&D unit in Bhopal IT Park (upcoming)"
+  ],
+  "target_industries": [
+    "Education (Schools, Universities, Smart Classrooms)",
+    "Government and PSUs",
+    "Healthcare and Medical",
+    "Banking and Finance",
+    "Defense",
+    "Corporate Enterprises"
+  ]
+}

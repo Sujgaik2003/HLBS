@@ -1,0 +1,559 @@
+
+import os
+
+base_folder = "/mnt/kimi/output/HLBSTech_Website_Redesign_Assets"
+
+prompt_content = '''
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                    WEBSITE DEVELOPMENT PROMPT                                 ║
+║              HLBS Tech (P) Ltd. - Complete Website Redesign                  ║
+║                    Modern | Responsive | Professional                        ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+PROJECT OVERVIEW
+═══════════════════════════════════════════════════════════════════════════════
+
+Company:        HLBS Tech (P) Ltd.
+Website:        https://hlbstech.com (to be redesigned)
+Location:       Bhopal, Madhya Pradesh, India
+Established:    December 2004
+Industry:       IT Hardware Manufacturing
+Products:       Workstations, Desktops, AIO PCs, Mini PCs, KIOSK, Servers
+Brands:         HLBS, HINUM
+
+MISSION: "Technologies for tomorrow" - Made in India IT hardware solutions
+
+REFERENCE WEBSITES (CRITICAL - Study these carefully):
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. RDP.in        → https://www.rdp.in        (Modern consumer IT hardware)
+2. Netwebindia.com → https://www.netwebindia.com (Enterprise HPC solutions)
+
+DESIGN STRATEGY: Combine RDP.in's consumer-friendly modern appeal with 
+Netwebindia.com's technical credibility and enterprise aesthetic.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 1: DESIGN SPECIFICATIONS
+═══════════════════════════════════════════════════════════════════════════════
+
+COLOR PALETTE (Modern Tech - Navy/Cyan/Orange)
+───────────────────────────────────────────────────────────────────────────────
+Primary:        #0A192F (Deep Tech Navy)      - Headers, primary buttons
+Secondary:      #64FFDA (Electric Cyan)       - Accents, hover states, links
+Accent:         #FF6B35 (Saffron Orange)      - Make in India, CTAs, highlights
+Neutral:        #8892B0 (Slate Gray)          - Body text, secondary content
+Background:     #F8F9FA (Off-White)           - Page background
+Dark:           #112240 (Dark Navy)           - Footer, dark sections
+White:          #FFFFFF                       - Cards, content areas
+
+Gradients:
+• Hero: linear-gradient(135deg, #0A192F 0%, #112240 100%)
+• Accent: linear-gradient(135deg, #64FFDA 0%, #00C9A7 100%)
+• CTA: linear-gradient(135deg, #FF6B35 0%, #FF8C42 100%)
+
+TYPOGRAPHY
+───────────────────────────────────────────────────────────────────────────────
+Headings:       Inter or Poppins (600-700 weight) - Clean, modern, professional
+Body:           Inter or Open Sans (400-500 weight) - Highly readable
+Technical:      JetBrains Mono or Roboto Mono - For specifications
+Hero Text:      56px-72px (desktop), 32px-40px (mobile)
+H1:             48px (desktop), 28px (mobile)
+H2:             36px (desktop), 24px (mobile)
+Body:           16px-18px, line-height 1.6
+
+LAYOUT PRINCIPLES (From Reference Sites)
+───────────────────────────────────────────────────────────────────────────────
+FROM RDP.in:
+✓ Full-width hero section with gradient background
+✓ Animated statistics counters (20+ Years, 5000+ Clients, etc.)
+✓ Floating card layouts with soft shadows
+✓ Partnership badges prominently displayed
+✓ Clean product categorization with icons
+✓ Trust indicators above the fold
+✓ Make in India badge integration
+✓ Mobile-responsive hamburger menu
+
+FROM Netwebindia.com:
+✓ Isometric 3D illustrations for technical products
+✓ Structured solution-based navigation
+✓ Technical specification tables
+✓ Asymmetric grid layouts
+✓ Professional enterprise aesthetic
+✓ Industry-specific landing pages
+✓ Subtle parallax scrolling effects
+✓ Dark mode toggle capability
+
+SPACING SYSTEM
+───────────────────────────────────────────────────────────────────────────────
+Section padding:    80px-120px vertical (desktop), 60px (mobile)
+Container max-width: 1280px (content), 1440px (full-width)
+Grid gap:           24px-32px
+Card padding:       24px-32px
+Border radius:      8px (buttons), 16px (cards), 24px (sections)
+
+ANIMATIONS & INTERACTIONS
+───────────────────────────────────────────────────────────────────────────────
+✓ Smooth scroll behavior
+✓ Fade-in on scroll (Intersection Observer)
+✓ Counter animation for statistics (count up from 0)
+✓ Hover effects: scale(1.02), shadow increase, color transitions
+✓ Sticky navigation on scroll
+✓ Mobile menu slide-in from right
+✓ Loading skeleton states
+✓ Micro-interactions on buttons
+
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 2: WEBSITE ARCHITECTURE (24 Pages)
+═══════════════════════════════════════════════════════════════════════════════
+
+MAIN NAVIGATION STRUCTURE
+───────────────────────────────────────────────────────────────────────────────
+1. Home
+2. About Us (dropdown: Profile, Team, Brand, Certifications)
+3. Products & Solutions (dropdown: Products, Solutions, Projects)
+4. Media (dropdown: News, Downloads)
+5. Support (dropdown: Warranty, Drivers, Contact Support)
+6. Contact Us [CTA Button]
+
+PAGE LIST WITH PRIORITIES
+───────────────────────────────────────────────────────────────────────────────
+
+TIER 1 - CRITICAL (Must be perfect):
+├── Home (/) - Hero, stats, products, trust badges
+├── Products (/products/) - Workstations, Desktops
+├── Products 2 (/products-2/) - Mini-PC, KIOSK
+├── About Us (/about-us/) - Company story, mission
+└── Contact (/contact/) - Form, map, details
+
+TIER 2 - IMPORTANT:
+├── Solutions (/solutions/) - Vertical solutions
+├── Product Detail - Workstation CMW-1000T (8 variants)
+├── Product Detail - AIO N24 (2 variants)
+├── Certifications (/certifications/)
+├── Downloads (/downloads/)
+└── Projects (/projects/)
+
+TIER 3 - SUPPORT:
+├── Drivers, Warranty, Complaint Register
+├── News, Blog
+└── Privacy Policy, Terms
+
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 3: PAGE-BY-PAGE SPECIFICATIONS
+═══════════════════════════════════════════════════════════════════════════════
+
+HOME PAGE (/)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. HERO SECTION (Full viewport height)
+   Layout: Full-width gradient background (#0A192F to #112240)
+   Content:
+   - Headline: "Technologies for Tomorrow"
+   - Subheadline: "Made in India IT Hardware Solutions Since 2004"
+   - Description: "HLBS Tech manufactures world-class Workstations, Desktops, 
+     All-in-One PCs, and specialized computing solutions for government, 
+     education, and enterprise."
+   - CTAs: "Explore Products" (primary), "Contact Sales" (secondary)
+   - Right side: Isometric 3D illustration of workstation/server (like Netweb)
+   
+   Animations:
+   - Text fade-in from bottom (staggered)
+   - Floating animation on illustration
+   - Particle effect or circuit pattern background (subtle)
+
+2. TRUST BAR (Below hero)
+   Layout: Horizontal scrolling marquee or static grid
+   Content: Partner logos (Intel, AMD, Microsoft, NVIDIA, Make in India)
+   Style: Grayscale to color on hover, opacity 0.7 default
+
+3. STATS COUNTER SECTION (Like RDP.in)
+   Layout: 4-column grid
+   Stats:
+   - "20+" Years of Excellence
+   - "5000+" Clients Nationwide  
+   - "50+" Product Models
+   - "100%" Make in India
+   Animation: Count up from 0 when scrolled into view
+   Style: Large numbers (#64FFDA), small labels (#8892B0)
+
+4. PRODUCT CATEGORIES (Grid)
+   Layout: 3x2 grid (desktop), 2x3 (tablet), 1x6 (mobile)
+   Categories:
+   ┌─────────────────┬─────────────────┬─────────────────┐
+   │  Workstations   │    Desktops     │   All-in-One    │
+   │   [Icon/Image]  │   [Icon/Image]  │   [Icon/Image]  │
+   │  High-Perf...   │  Business...    │  Space-Saving   │
+   └─────────────────┴─────────────────┴─────────────────┘
+   ┌─────────────────┬─────────────────┬─────────────────┐
+   │    Mini PCs     │     KIOSK       │    Servers      │
+   │   [Icon/Image]  │   [Icon/Image]  │   [Icon/Image]  │
+   │   Compact...    │  Self-Service   │  Enterprise...  │
+   └─────────────────┴─────────────────┴─────────────────┘
+   
+   Style: Card with hover lift (transform: translateY(-8px)), shadow increase
+   Icons: Isometric style illustrations (create or source similar to Netweb)
+
+5. FEATURED PRODUCTS CAROUSEL
+   Layout: Horizontal scroll or swiper carousel
+   Products: Show 4-6 flagship products (Workstation CMW-1000T variants)
+   Card: Image, Title, Key specs (Processor, RAM), "View Details" button
+   Navigation: Arrow buttons + swipe on mobile
+
+6. WHY HLBS SECTION
+   Layout: 2-column (text left, image right)
+   Headline: "Why Choose HLBS?"
+   Features (with icons):
+   ✓ Make in India Certified Manufacturing
+   ✓ 20+ Years of Hardware Excellence
+   ✓ ISO Certified Quality Standards
+   ✓ Pan India Support Network
+   ✓ Custom Hardware Solutions
+   ✓ 3-Year Warranty on All Products
+   
+   Image: Factory photo or manufacturing process
+
+7. INDUSTRIES SERVED (Like Netweb solutions)
+   Layout: Horizontal tabs or vertical accordion
+   Industries:
+   - Education (Smart Classrooms, Computer Labs)
+   - Government (E-Governance, PSUs)
+   - Healthcare (Hospital Systems, Diagnostics)
+   - Banking (Branch Automation, KIOSK)
+   - Defense (Secure Computing)
+   
+   Each tab shows: Description, relevant product image, case study link
+
+8. TESTIMONIALS
+   Layout: 3-column grid or carousel
+   Content: Client quotes, company names, star ratings
+   Style: Card with quote icon, subtle border
+
+9. NEWS/BLOG SECTION
+   Layout: 3 latest posts grid
+   Each: Thumbnail, title, excerpt, "Read More" link
+
+10. FOOTER
+    Layout: 4-column (Products, Solutions, Support, Contact)
+    Bottom: Copyright, social links, back-to-top button
+    Style: Dark background (#0A192F), light text
+
+
+PRODUCTS PAGE (/products/)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Layout: Filter sidebar (left) + Product grid (right)
+
+FILTERS:
+- Category (Workstations, Desktops, AIO, Mini-PC, KIOSK, Servers)
+- Processor (Intel Core i3/i5/i7/i9, Intel Xeon, AMD)
+- Use Case (Business, Gaming, Design, Server)
+
+PRODUCT GRID:
+- 3 columns desktop, 2 tablet, 1 mobile
+- Card: Product image, Model name, Starting price, Key specs (3-4 bullets)
+- Hover: Quick view button, compare checkbox
+- Badge: "New", "Best Seller", "Make in India"
+
+PRODUCT DETAIL PAGE (Example: /product/workstation-cmw1000t/)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Layout:
+┌─────────────────────────────────────────────────────────────┐
+│  Breadcrumb: Home > Products > Workstations > CMW-1000T     │
+├──────────────────────┬──────────────────────────────────────┤
+│                      │                                      │
+│   Product Image      │   Product Title                      │
+│   (Large, zoomable)  │   ★★★★★ (4.8/5)                      │
+│                      │                                      │
+│   [Thumbnail         │   Price: Starting at ₹X,XXX          │
+│    Gallery]          │   [Request Quote] [Download PDF]     │
+│                      │                                      │
+│                      │   Short Description                  │
+│                      │                                      │
+│                      │   Configuration Selector:            │
+│                      │   ○ Intel Core i7  ○ Intel Core i9   │
+│                      │   ○ Intel Xeon                        │
+│                      │                                      │
+└──────────────────────┴──────────────────────────────────────┘
+
+Tabs Section:
+- Specifications (Full technical specs table)
+- Features (Key selling points with icons)
+- Downloads (Datasheet PDF, Drivers)
+- Related Products
+
+Specs Table Style (Like Netweb):
+| Component        | Specification                          |
+|------------------|----------------------------------------|
+| Processor        | Intel Core Ultra 9 285K, 24 Cores      |
+| Memory           | Up to 128GB DDR5 5600MHz               |
+| Graphics         | NVIDIA RTX 2000 Ada 16GB               |
+| Storage          | 1TB NVMe SSD                           |
+| OS               | Windows 11 Professional                |
+
+
+ABOUT US PAGE (/about-us/)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Sections:
+1. Hero: "Two Decades of Innovation" with factory image
+2. Company Story: Timeline from 2004 to present
+3. Mission/Vision: Cards with icons
+4. Manufacturing: Facility images, process steps
+5. R&D Capabilities: Lab photos, innovation highlights
+6. Leadership Team: Photos, names, titles
+7. Certifications: Grid of ISO badges (click to view)
+8. Awards/Recognition: Trophy icons, achievements
+
+
+CONTACT PAGE (/contact/)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Layout: 2-column
+Left Column:
+- Contact form (Name, Email, Phone, Company, Message, Product Interest)
+- Map integration (Google Maps iframe)
+
+Right Column:
+- Office Address (MP Nagar, Bhopal)
+- Factory Address (Govindpura, Bhopal)
+- Phone numbers (Landline + Mobile)
+- Email addresses
+- Business hours
+- Social media links
+
+Style: Clean form with floating labels, validation, success message
+
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 4: TECHNICAL REQUIREMENTS
+═══════════════════════════════════════════════════════════════════════════════
+
+TECH STACK (Recommended)
+───────────────────────────────────────────────────────────────────────────────
+Frontend Framework:     Next.js 14 (React 18+)
+Styling:                Tailwind CSS 3.4+
+UI Components:          Shadcn/ui or Headless UI
+Animation:              Framer Motion
+Icons:                  Lucide React
+Forms:                  React Hook Form + Zod validation
+Maps:                   Google Maps React or Leaflet
+
+Backend (if needed):    Next.js API Routes or Node.js/Express
+Database (if needed):   PostgreSQL or MongoDB
+CMS (optional):         Strapi or Sanity.io
+
+PERFORMANCE TARGETS
+───────────────────────────────────────────────────────────────────────────────
+✓ Lighthouse Score: 95+ (Performance, Accessibility, SEO, Best Practices)
+✓ Page Load Time: < 2 seconds (First Contentful Paint)
+✓ Time to Interactive: < 3.5 seconds
+✓ Core Web Vitals: All Green (LCP < 2.5s, FID < 100ms, CLS < 0.1)
+✓ Mobile-First: Responsive from 320px to 4K displays
+
+SEO REQUIREMENTS
+───────────────────────────────────────────────────────────────────────────────
+✓ Semantic HTML5 structure
+✓ Meta tags for all pages (title, description, Open Graph)
+✓ Structured data (Schema.org - Organization, Product, LocalBusiness)
+✓ XML Sitemap generation
+✓ Robots.txt configuration
+✓ Canonical URLs
+✓ Alt tags for all images
+✓ Internal linking strategy
+
+RESPONSIVE BREAKPOINTS
+───────────────────────────────────────────────────────────────────────────────
+Mobile Small:   320px - 375px
+Mobile:         376px - 640px
+Tablet:         641px - 768px
+Tablet Large:   769px - 1024px
+Desktop:        1025px - 1280px
+Desktop Large:  1281px - 1440px
+4K+:            1441px+
+
+ACCESSIBILITY (WCAG 2.1 AA)
+───────────────────────────────────────────────────────────────────────────────
+✓ Keyboard navigation support
+✓ Screen reader compatibility (ARIA labels)
+✓ Color contrast ratio 4.5:1 minimum
+✓ Focus indicators visible
+✓ Alt text for images
+✓ Skip to content link
+✓ Form labels and error messages
+
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 5: CONTENT & ASSETS
+═══════════════════════════════════════════════════════════════════════════════
+
+ALL CONTENT IS PROVIDED IN:
+📁 04_Content_Text/HLBS_Full_Website_Content.txt
+
+KEY INFORMATION:
+───────────────────────────────────────────────────────────────────────────────
+Company:        HLBS Tech (P) Ltd.
+Established:    December 2004
+Address:        243-B, Zone I, MP Nagar, Bhopal - 462011, MP, India
+Factory:        24/2D, Sector J.K. Road, Industrial Area, Govindpura, Bhopal
+Phone:          0755-4082900, 0755-4074072
+Mobile:         +91 98265 27444, +91 8889955229
+Toll Free:      1800 270 1244
+Email:          sales@hlbstech.com
+GSTIN:          23AABCH5020R1ZL
+
+PRODUCTS TO FEATURE:
+───────────────────────────────────────────────────────────────────────────────
+1. WORKSTATIONS (HLBS CMW-1000T series - 8 variants):
+   - Intel Core Ultra 9 285K / RTX 2000 Ada / 128GB RAM
+   - Intel Core i7-14700 / RTX A400 / 16GB RAM
+   - Intel Core i9-14900K / RTX A400 / 32GB RAM
+   - Intel Xeon Gold 6248 / RTX A1000 / 64GB ECC
+   - Intel Xeon W9-3475X / RTX 4500 Ada / 512GB ECC
+   - Intel Xeon W3-2435 / RTX A-series / 64GB ECC
+   - Intel Core i9-13900 / T1000 / 64GB RAM
+
+2. DESKTOPS: HLBS CM44 series
+
+3. ALL-IN-ONE: HLBS N24 (Intel i5-13500 and i7-14700 variants)
+
+4. MINI PC: Daksh series
+
+5. KIOSK: INFOK Information Kiosk
+
+6. SERVERS: CMX2000T (Intel Xeon Gold)
+
+CERTIFICATIONS TO DISPLAY:
+───────────────────────────────────────────────────────────────────────────────
+ISO 9001, ISO 14001, ISO 27001, ISO 50001, ISO 45001, ISO 20000:1
+SA 8000, CE, FCC, ROHS, BIS, EPR, ZED, Make in India
+
+IMAGES NEEDED:
+───────────────────────────────────────────────────────────────────────────────
+Use the download script provided to get all images from hlbstech.com:
+bash download_all_assets.sh
+
+Or create new:
+- Product photos: Clean white background, multiple angles
+- Hero images: Tech-themed, modern aesthetic
+- Isometric illustrations: For product categories (like Netweb)
+- Factory/Manufacturing: Real photos of Bhopal facility
+- Team photos: Professional headshots
+
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 6: SPECIAL FEATURES
+═══════════════════════════════════════════════════════════════════════════════
+
+REQUIRED FEATURES:
+───────────────────────────────────────────────────────────────────────────────
+✓ Dark/Light mode toggle
+✓ Product comparison tool (compare 2-3 products side by side)
+✓ Request quote form (with product selection)
+✓ Live chat integration (WhatsApp Business or Tawk.to)
+✓ Search functionality (products, solutions, downloads)
+✓ Multi-language support (English + Hindi)
+✓ Cookie consent banner (GDPR compliant)
+✓ Back-to-top button
+✓ Sticky header on scroll
+✓ Loading skeletons for dynamic content
+
+NICE-TO-HAVE FEATURES:
+───────────────────────────────────────────────────────────────────────────────
+○ Product configurator (build your own PC)
+○ 360° product viewer
+○ Video backgrounds in hero sections
+○ Blog/News section with CMS
+○ Customer portal (order tracking, support tickets)
+○ Dealer locator map
+
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 7: DELIVERABLES EXPECTED
+═══════════════════════════════════════════════════════════════════════════════
+
+FROM DEVELOPER/AI:
+───────────────────────────────────────────────────────────────────────────────
+1. Complete source code (Next.js project)
+2. Responsive HTML/CSS/JS for all 24 pages
+3. Component library (reusable UI components)
+4. All assets optimized (images, fonts)
+5. SEO configuration (meta tags, sitemap)
+6. Performance optimization (lazy loading, code splitting)
+7. Accessibility compliance
+8. Documentation (setup instructions, component guide)
+9. Deployment ready (Vercel/Netlify configured)
+
+TESTING CHECKLIST:
+───────────────────────────────────────────────────────────────────────────────
+□ All pages render correctly
+□ Responsive on all devices (test: 320px, 768px, 1024px, 1440px)
+□ All links work
+□ Forms validate and submit
+□ Images load properly
+□ Animations work smoothly
+□ Lighthouse score 95+
+□ Cross-browser test (Chrome, Firefox, Safari, Edge)
+□ Accessibility audit (axe or WAVE)
+
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION 8: INSPIRATION & REFERENCES
+═══════════════════════════════════════════════════════════════════════════════
+
+STUDY THESE CAREFULLY:
+───────────────────────────────────────────────────────────────────────────────
+
+RDP.in (https://www.rdp.in) - ADAPT THESE ELEMENTS:
+→ Hero section with gradient and stats counter
+→ "12 Years of Trust" section style
+→ Partnership badges layout (Intel, AMD, Microsoft)
+→ Product category cards with hover effects
+→ Make in India prominent placement
+→ Trust indicators (1Mn+ satisfied users)
+→ Clean, spacious layout
+→ Mobile menu design
+
+Netwebindia.com (https://www.netwebindia.com) - ADAPT THESE ELEMENTS:
+→ Isometric 3D illustrations style
+→ Technical specification tables
+→ Solution-based navigation structure
+→ "500+ Supercomputing systems" metric display
+→ Professional color scheme (blues/cyans)
+→ Industry vertical pages
+→ Product naming strategy (Tyrone brand)
+→ Technical depth without clutter
+
+COMBINE BOTH:
+→ RDP's consumer appeal + Netweb's technical credibility
+→ RDP's animations + Netweb's structured layout
+→ RDP's trust badges + Netweb's isometric illustrations
+→ RDP's product cards + Netweb's spec tables
+
+
+═══════════════════════════════════════════════════════════════════════════════
+FINAL NOTES
+═══════════════════════════════════════════════════════════════════════════════
+
+SUCCESS CRITERIA:
+✓ Website looks modern and professional (2025 standards)
+✓ Clearly communicates "Made in India" and "20+ years experience"
+✓ Easy to navigate and find products
+✓ Loads fast and works on all devices
+✓ Generates leads (quote requests, contact forms)
+✓ Ranks well on Google (SEO optimized)
+✓ Reflects both RDP.in's modern appeal and Netweb's technical authority
+
+TIMELINE: 2-3 weeks for complete development
+BUDGET: [To be determined based on scope]
+
+CONTACT FOR QUESTIONS:
+HLBS Tech (P) Ltd.
+Email: sales@hlbstech.com
+Phone: 0755-4082900
+
+═══════════════════════════════════════════════════════════════════════════════
+END OF PROMPT
+═══════════════════════════════════════════════════════════════════════════════

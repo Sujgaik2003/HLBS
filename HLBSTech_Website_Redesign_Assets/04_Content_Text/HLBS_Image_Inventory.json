@@ -1,0 +1,384 @@
+{
+  "logo_and_branding": {
+    "hlbs_main_logo": {
+      "url": "https://hlbstech.com/wp-content/uploads/2024/02/HLBS-Logo.png",
+      "filename": "HLBS_Main_Logo.png",
+      "type": "PNG",
+      "usage": "Header, Footer, Branding",
+      "priority": "critical"
+    },
+    "hlbs_logo_white": {
+      "url": "https://hlbstech.com/wp-content/uploads/2024/02/HLBS-Logo-White.png",
+      "filename": "HLBS_Logo_White.png",
+      "type": "PNG",
+      "usage": "Dark backgrounds",
+      "priority": "high"
+    },
+    "hinum_brand": {
+      "url": "https://hlbstech.com/wp-content/uploads/2024/02/HINUM-Logo.png",
+      "filename": "HINUM_Logo.png",
+      "type": "PNG",
+      "usage": "HINUM product line",
+      "priority": "high"
+    },
+    "favicon": {
+      "url": "https://hlbstech.com/wp-content/uploads/2024/02/favicon.ico",
+      "filename": "favicon.ico",
+      "type": "ICO",
+      "usage": "Browser tab icon",
+      "priority": "medium"
+    }
+  },
+  "product_images": {
+    "workstations": [
+      {
+        "model": "HLBS CMW-1000T",
+        "images": [
+          {
+            "url": "https://hlbstech.com/wp-content/uploads/2025/11/Workstation-300x300.png",
+            "filename": "Workstation_CMW1000T_01.png",
+            "angle": "front",
+            "priority": "critical"
+          },
+          {
+            "url": "https://hlbstech.com/wp-content/uploads/2025/10/Workstation-300x300.png",
+            "filename": "Workstation_CMW1000T_02.png",
+            "angle": "side",
+            "priority": "high"
+          },
+          {
+            "url": "https://hlbstech.com/wp-content/uploads/2025/08/Workstation-300x300.png",
+            "filename": "Workstation_CMW1000T_03.png",
+            "angle": "angle",
+            "priority": "high"
+          },
+          {
+            "url": "https://hlbstech.com/wp-content/uploads/2025/12/Workstation-300x300.png",
+            "filename": "Workstation_CMW1000T_04.png",
+            "angle": "detail",
+            "priority": "medium"
+          },
+          {
+            "url": "https://hlbstech.com/wp-content/uploads/2025/06/Workstation-300x300.png",
+            "filename": "Workstation_CMW1000T_05.png",
+            "angle": "open",
+            "priority": "medium"
+          }
+        ]
+      }
+    ],
+    "desktop_computers": [
+      {
+        "model": "HLBS CM44",
+        "images": [
+          {
+            "url": "https://hlbstech.com/wp-content/uploads/2024/02/CM44.jpg",
+            "filename": "Desktop_CM44_01.jpg",
+            "angle": "front",
+            "priority": "critical"
+          },
+          {
+            "url": "https://hlbstech.com/wp-content/uploads/2023/08/CM44-300x300.jpg",
+            "filename": "Desktop_CM44_02.jpg",
+            "angle": "side",
+            "priority": "high"
+          },
+          {
+            "url": "https://hlbstech.com/wp-content/uploads/2023/08/CM44-1-300x300.jpg",
+            "filename": "Desktop_CM44_03.jpg",
+            "angle": "angle",
+            "priority": "medium"
+          },
+          {
+            "url": "https://hlbstech.com/wp-content/uploads/2023/08/CM44-2-300x300.jpg",
+            "filename": "Desktop_CM44_04.jpg",
+            "angle": "detail",
+            "priority": "medium"
+          }
+        ]
+      }
+    ],
+    "all_in_one": [
+      {
+        "model": "HLBS N24",
+        "images": [
+          {
+            "url": "https://hlbstech.com/wp-content/uploads/2024/10/N24-300x300.jpg",
+            "filename": "AIO_N24_01.jpg",
+            "angle": "front",
+            "priority": "critical"
+          },
+          {
+            "url": "https://hlbstech.com/wp-content/uploads/2025/06/N24-300x300.jpg",
+            "filename": "AIO_N24_02.jpg",
+            "angle": "side",
+            "priority": "high"
+          },
+          {
+            "url": "https://hlbstech.com/wp-content/uploads/2024/02/N24-AIO-PC.jpg",
+            "filename": "AIO_N24_03.jpg",
+            "angle": "angle",
+            "priority": "high"
+          },
+          {
+            "url": "https://hlbstech.com/wp-content/uploads/2025/06/N24-1-300x300.jpg",
+            "filename": "AIO_N24_04.jpg",
+            "angle": "detail",
+            "priority": "medium"
+          }
+        ]
+      }
+    ],
+    "mini_pc": [
+      {
+        "model": "Daksh Mini-PC",
+        "images": [
+          {
+            "url": "https://hlbstech.com/wp-content/uploads/2024/02/Mini-PC.jpg",
+            "filename": "MiniPC_Daksh_01.jpg",
+            "angle": "front",
+            "priority": "critical"
+          },
+          {
+            "url": "https://hlbstech.com/wp-content/uploads/2023/08/Mini-PC-300x300.jpg",
+            "filename": "MiniPC_Daksh_02.jpg",
+            "angle": "side",
+            "priority": "high"
+          },
+          {
+            "url": "https://hlbstech.com/wp-content/uploads/2023/08/Mini-PC-1-300x300.jpg",
+            "filename": "MiniPC_Daksh_03.jpg",
+            "angle": "angle",
+            "priority": "medium"
+          }
+        ]
+      }
+    ],
+    "kiosk": [
+      {
+        "model": "INFOK Information Kiosk",
+        "images": [
+          {
+            "url": "https://hlbstech.com/wp-content/uploads/2024/02/Kiosk.jpg",
+            "filename": "Kiosk_INFOK_01.jpg",
+            "angle": "front",
+            "priority": "critical"
+          },
+          {
+            "url": "https://hlbstech.com/wp-content/uploads/2023/08/Kiosk-300x300.jpg",
+            "filename": "Kiosk_INFOK_02.jpg",
+            "angle": "side",
+            "priority": "high"
+          },
+          {
+            "url": "https://hlbstech.com/wp-content/uploads/2023/08/Kiosk-1-300x300.jpg",
+            "filename": "Kiosk_INFOK_03.jpg",
+            "angle": "detail",
+            "priority": "medium"
+          }
+        ]
+      }
+    ],
+    "servers": [
+      {
+        "model": "HLBS CMX2000T",
+        "images": [
+          {
+            "url": "https://hlbstech.com/wp-content/uploads/2025/12/Server-300x300.png",
+            "filename": "Server_CMX2000T_01.png",
+            "angle": "front",
+            "priority": "critical"
+          },
+          {
+            "url": "https://hlbstech.com/wp-content/uploads/2025/12/Server-1-300x300.png",
+            "filename": "Server_CMX2000T_02.png",
+            "angle": "open",
+            "priority": "high"
+          }
+        ]
+      }
+    ],
+    "monitors": [
+      {
+        "url": "https://hlbstech.com/wp-content/uploads/2023/08/Monitor-300x300.jpg",
+        "filename": "Monitor_Generic_01.jpg",
+        "priority": "medium"
+      },
+      {
+        "url": "https://hlbstech.com/wp-content/uploads/2023/08/Monitor-1-300x300.jpg",
+        "filename": "Monitor_Generic_02.jpg",
+        "priority": "medium"
+      }
+    ],
+    "peripherals": [
+      {
+        "url": "https://hlbstech.com/wp-content/uploads/2023/08/Keyboard-300x300.jpg",
+        "filename": "Keyboard_Generic_01.jpg",
+        "priority": "low"
+      },
+      {
+        "url": "https://hlbstech.com/wp-content/uploads/2023/08/Mouse-300x300.jpg",
+        "filename": "Mouse_Generic_01.jpg",
+        "priority": "low"
+      }
+    ]
+  },
+  "hero_and_banners": {
+    "homepage_hero": [
+      {
+        "url": "https://hlbstech.com/wp-content/uploads/2024/02/Hero-Banner.jpg",
+        "filename": "Hero_Banner_Main.jpg",
+        "priority": "critical"
+      },
+      {
+        "url": "https://hlbstech.com/wp-content/uploads/2024/02/Hero-Banner-2.jpg",
+        "filename": "Hero_Banner_Alt.jpg",
+        "priority": "high"
+      }
+    ],
+    "about_page": [
+      {
+        "url": "https://hlbstech.com/wp-content/uploads/2024/02/About-Hero.jpg",
+        "filename": "About_Hero.jpg",
+        "priority": "high"
+      }
+    ],
+    "product_banners": [
+      {
+        "url": "https://hlbstech.com/wp-content/uploads/2024/02/Products-Banner.jpg",
+        "filename": "Products_Banner.jpg",
+        "priority": "high"
+      }
+    ],
+    "solutions_banners": [
+      {
+        "url": "https://hlbstech.com/wp-content/uploads/2024/02/Solutions-Banner.jpg",
+        "filename": "Solutions_Banner.jpg",
+        "priority": "medium"
+      }
+    ]
+  },
+  "icons_and_ui": {
+    "feature_icons": [
+      {
+        "url": "https://hlbstech.com/wp-content/uploads/2024/02/Icon-Support.png",
+        "filename": "Icon_Support.png",
+        "usage": "Customer support"
+      },
+      {
+        "url": "https://hlbstech.com/wp-content/uploads/2024/02/Icon-Warranty.png",
+        "filename": "Icon_Warranty.png",
+        "usage": "Warranty info"
+      },
+      {
+        "url": "https://hlbstech.com/wp-content/uploads/2024/02/Icon-Delivery.png",
+        "filename": "Icon_Delivery.png",
+        "usage": "Pan India delivery"
+      },
+      {
+        "url": "https://hlbstech.com/wp-content/uploads/2024/02/Icon-Quality.png",
+        "filename": "Icon_Quality.png",
+        "usage": "Quality assurance"
+      }
+    ],
+    "certification_badges": [
+      {
+        "url": "https://hlbstech.com/wp-content/uploads/2024/02/ISO-9001.png",
+        "filename": "Badge_ISO_9001.png"
+      },
+      {
+        "url": "https://hlbstech.com/wp-content/uploads/2024/02/ISO-14001.png",
+        "filename": "Badge_ISO_14001.png"
+      },
+      {
+        "url": "https://hlbstech.com/wp-content/uploads/2024/02/Make-in-India.png",
+        "filename": "Badge_Make_in_India.png",
+        "priority": "critical"
+      },
+      {
+        "url": "https://hlbstech.com/wp-content/uploads/2024/02/CE-Certification.png",
+        "filename": "Badge_CE.png"
+      },
+      {
+        "url": "https://hlbstech.com/wp-content/uploads/2024/02/BIS-Certification.png",
+        "filename": "Badge_BIS.png"
+      }
+    ],
+    "partner_logos": [
+      {
+        "url": "https://hlbstech.com/wp-content/uploads/2024/02/Intel-Logo.png",
+        "filename": "Partner_Intel.png"
+      },
+      {
+        "url": "https://hlbstech.com/wp-content/uploads/2024/02/AMD-Logo.png",
+        "filename": "Partner_AMD.png"
+      },
+      {
+        "url": "https://hlbstech.com/wp-content/uploads/2024/02/Microsoft-Logo.png",
+        "filename": "Partner_Microsoft.png"
+      },
+      {
+        "url": "https://hlbstech.com/wp-content/uploads/2024/02/NVIDIA-Logo.png",
+        "filename": "Partner_NVIDIA.png"
+      }
+    ]
+  },
+  "team_and_facility": {
+    "team_photos": [
+      {
+        "url": "https://hlbstech.com/wp-content/uploads/2024/02/Team-1.jpg",
+        "filename": "Team_Leadership.jpg",
+        "priority": "medium"
+      },
+      {
+        "url": "https://hlbstech.com/wp-content/uploads/2024/02/Team-2.jpg",
+        "filename": "Team_RnD.jpg",
+        "priority": "medium"
+      }
+    ],
+    "facility_images": [
+      {
+        "url": "https://hlbstech.com/wp-content/uploads/2024/02/Factory-1.jpg",
+        "filename": "Factory_Exterior.jpg",
+        "priority": "high"
+      },
+      {
+        "url": "https://hlbstech.com/wp-content/uploads/2024/02/Factory-2.jpg",
+        "filename": "Factory_Interior.jpg",
+        "priority": "high"
+      },
+      {
+        "url": "https://hlbstech.com/wp-content/uploads/2024/02/Assembly-Line.jpg",
+        "filename": "Assembly_Line.jpg",
+        "priority": "high"
+      },
+      {
+        "url": "https://hlbstech.com/wp-content/uploads/2024/02/RnD-Lab.jpg",
+        "filename": "RnD_Lab.jpg",
+        "priority": "medium"
+      }
+    ]
+  },
+  "client_logos": [
+    {
+      "url": "https://hlbstech.com/wp-content/uploads/2024/02/Client-1.png",
+      "filename": "Client_01.png"
+    },
+    {
+      "url": "https://hlbstech.com/wp-content/uploads/2024/02/Client-2.png",
+      "filename": "Client_02.png"
+    },
+    {
+      "url": "https://hlbstech.com/wp-content/uploads/2024/02/Client-3.png",
+      "filename": "Client_03.png"
+    },
+    {
+      "url": "https://hlbstech.com/wp-content/uploads/2024/02/Client-4.png",
+      "filename": "Client_04.png"
+    },
+    {
+      "url": "https://hlbstech.com/wp-content/uploads/2024/02/Client-5.png",
+      "filename": "Client_05.png"
+    }
+  ]
+}

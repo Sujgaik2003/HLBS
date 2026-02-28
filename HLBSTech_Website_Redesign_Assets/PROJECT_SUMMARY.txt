@@ -1,0 +1,106 @@
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                    HLBS TECH WEBSITE REDESIGN PROJECT                        ║
+║                           ASSET PACKAGE SUMMARY                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+PROJECT OVERVIEW:
+─────────────────
+Company:        HLBS Tech (P) Ltd.
+Website:        https://hlbstech.com
+Established:    December 2004
+Location:       Bhopal, Madhya Pradesh, India
+Products:       Workstations, Desktops, AIO PCs, Mini PCs, KIOSK, Servers
+Brands:         HLBS, HINUM
+
+REFERENCE SITES:
+────────────────
+1. RDP.in        - Modern consumer IT hardware design
+2. Netwebindia.com - Enterprise HPC technical design
+
+DELIVERABLES:
+─────────────
+✅ 01_HTML_Pages/              - Scraped HTML content
+✅ 02_Images/Products/          - All product images (Workstations, Desktops, AIO, etc.)
+✅ 02_Images/Logos_Branding/    - HLBS/HINUM logos, certification badges
+✅ 02_Images/Banners_Hero/      - Hero banners and background images
+✅ 02_Images/Icons_UI/          - UI icons and feature icons
+✅ 03_PDFs/Datasheets_Brochures/ - Product datasheets and technical specs
+✅ 03_PDFs/Certifications/       - ISO and compliance certificates
+✅ 04_Content_Text/              - JSON content inventory
+✅ 05_CSS_JS_Original/           - Original website stylesheets
+✅ 06_Fonts/                     - Font files
+✅ 07_Reference_Sites_Analysis/  - Design analysis of reference sites
+✅ 08_Sitemap_Structure/         - Complete website architecture
+
+KEY CONTENT INVENTORY:
+──────────────────────
+• Total Products:        6 Categories
+• Workstation Variants:  8 Different Configurations
+• AIO Models:           2 Models (N24 series)
+• Desktop Models:       CM44 Series
+• Mini PC Models:       Daksh Series
+• KIOSK Models:         INFOK Series
+• Server Models:        CMX2000T Series
+
+PRODUCT SPECIFICATIONS:
+───────────────────────
+✓ Intel Core Ultra 9 285K Workstation
+✓ Intel Core i7-14700 Workstation  
+✓ Intel Core i9-14900K Workstation
+✓ Intel Xeon Gold 6248 Server
+✓ Intel Xeon W9-3475X Ultimate Workstation
+✓ Intel Xeon W3-2435 Workstation
+✓ Intel Core i5-13500 AIO N24
+✓ Intel Core i7-14700 AIO N24
+
+CERTIFICATIONS:
+───────────────
+• ISO 9001 (Quality Management)
+• ISO 14001 (Environmental Management)
+• ISO 27001 (Information Security)
+• ISO 50001 (Energy Management)
+• ISO 45001 (Occupational Health & Safety)
+• ISO 20000:1 (IT Service Management)
+• SA 8000 (Social Accountability)
+• CE Certification
+• FCC Certification
+• ROHS Compliance
+• BIS Certification
+• EPR Authorization
+• ZED Certification
+• Make in India Registered
+
+CONTACT INFORMATION:
+────────────────────
+Head Office:    243-B, Zone I, MP Nagar, Bhopal - 462011
+Factory:        24/2D, Sector J.K. Road, Industrial Area, Govindpura, Bhopal
+Phone:          0755-4082900, 0755-4074072
+Mobile:         +91 98265 27444, +91 8889955229, +91 8889933112
+Toll Free:      1800 270 1244
+Email:          sales@hlbstech.com, hlbs@hlbstech.com
+GSTIN:          23AABCH5020R1ZL
+
+NEXT STEPS:
+───────────
+1. Run download_hlbs_assets.py to download all images and PDFs
+2. Review 04_Content_Text/HLBS_Content_Inventory.json for all text content
+3. Check 08_Sitemap_Structure/HLBS_Complete_Sitemap.json for page structure
+4. Reference 07_Reference_Sites_Analysis/ for design direction
+5. Start building new website with modern stack (Next.js + Tailwind)
+
+DESIGN RECOMMENDATIONS:
+───────────────────────
+• Use Deep Navy (#0A192F) + Electric Cyan (#64FFDA) color scheme
+• Combine RDP.in's consumer appeal with Netweb's technical credibility
+• Emphasize "Make in India" and "20+ Years Heritage"
+• Create isometric illustrations for technical products
+• Implement animated statistics counters
+• Design mobile-first responsive layout
+• Add dark mode toggle
+• Include WhatsApp Business integration
+
+═══════════════════════════════════════════════════════════════════════════════
+Generated: 2025-02-27
+Package Version: 1.0
+═══════════════════════════════════════════════════════════════════════════════

@@ -1,0 +1,167 @@
+{
+  "analysis_date": "2025-02-27",
+  "reference_sites": {
+    "rdp_in": {
+      "url": "https://www.rdp.in",
+      "name": "RDP (Remote Desktop Protocol) Computers",
+      "type": "IT Hardware Manufacturer",
+      "location": "India",
+      "strengths": [
+        "Modern gradient hero sections with particle effects",
+        "Animated statistics counters (12 Years, 1Mn+ Users)",
+        "Strong 'Make in India' visual branding",
+        "Clean product categorization with icons",
+        "OEM partnership badges prominently displayed (Intel, AMD, Microsoft)",
+        "Trust indicators above the fold",
+        "GIBGI subsidiary brand integration",
+        "Viksit Bharat 2047 messaging",
+        "Affordable positioning with quality emphasis"
+      ],
+      "design_elements": {
+        "color_scheme": {
+          "primary": "#0066CC (Blue)",
+          "secondary": "#00C853 (Green)",
+          "accent": "#FF6B00 (Orange)",
+          "background": "#FFFFFF (White)"
+        },
+        "typography": "Modern sans-serif, clean headings",
+        "layout": "Card-based grid layouts",
+        "animations": "Scroll-triggered counters, hover effects",
+        "imagery": "Product photography with clean backgrounds"
+      },
+      "sections_to_adapt": [
+        "Hero section with animated stats",
+        "Partnership badges bar",
+        "Product category cards",
+        "Make in India prominent badge",
+        "Trust indicators section",
+        "Blog/News integration"
+      ]
+    },
+    "netwebindia_com": {
+      "url": "https://www.netwebindia.com",
+      "name": "Netweb Technologies",
+      "type": "HPC & Data Center Solutions",
+      "location": "India",
+      "strengths": [
+        "Isometric 3D illustrations for technical concepts",
+        "Strong technical specification presentation",
+        "Tyrone brand product naming strategy",
+        "Structured solution-based navigation",
+        "Professional enterprise aesthetic",
+        "500+ Supercomputing systems installed metric",
+        "Clear categorization: Servers, Storage, Cloud, AI",
+        "Technical depth without overwhelming design",
+        "Bespoke hardware design emphasis"
+      ],
+      "design_elements": {
+        "color_scheme": {
+          "primary": "#1E3A8A (Deep Blue)",
+          "secondary": "#3B82F6 (Bright Blue)",
+          "accent": "#06B6D4 (Cyan)",
+          "background": "#F8FAFC (Light Gray)"
+        },
+        "typography": "Technical, precise font choices",
+        "layout": "Asymmetric grids, technical diagrams",
+        "animations": "Subtle parallax, isometric illustrations",
+        "imagery": "3D isometric server illustrations, data center visuals"
+      },
+      "sections_to_adapt": [
+        "Isometric product illustrations",
+        "Technical specifications layout",
+        "Solution-based categorization",
+        "Industry-specific landing pages",
+        "Installed base metrics (500+ systems)",
+        "Cluster management software showcase"
+      ]
+    }
+  },
+  "design_strategy_for_hlbs": {
+    "visual_direction": "Combine RDP's consumer-friendly approach with Netweb's technical credibility",
+    "color_palette": {
+      "primary": "#0A192F (Deep Tech Navy)",
+      "secondary": "#64FFDA (Electric Cyan)",
+      "accent": "#FF6B35 (Saffron Orange - Make in India)",
+      "neutral": "#8892B0 (Slate Gray)",
+      "background": "#F8F9FA (Off-White)",
+      "dark": "#112240 (Dark Navy)"
+    },
+    "typography": {
+      "headings": "Inter or Poppins - Modern, clean",
+      "body": "Open Sans or Roboto - Readable",
+      "technical": "JetBrains Mono - For specs"
+    },
+    "key_adaptations": [
+      {
+        "from": "RDP.in",
+        "element": "Animated stats counter",
+        "adaptation": "Show '20+ Years', '5000+ Clients', 'Make in India'"
+      },
+      {
+        "from": "RDP.in",
+        "element": "Partnership badges",
+        "adaptation": "Intel, AMD, Microsoft, NVIDIA badges"
+      },
+      {
+        "from": "Netwebindia.com",
+        "element": "Isometric illustrations",
+        "adaptation": "Custom isometric illustrations for Workstations, KIOSK, Servers"
+      },
+      {
+        "from": "Netwebindia.com",
+        "element": "Technical specs layout",
+        "adaptation": "Clean specification tables for all products"
+      }
+    ],
+    "unique_differentiators": [
+      "Bhopal, MP based manufacturing (local pride)",
+      "Government and Education sector focus",
+      "HLBS + HINUM dual brand strategy",
+      "Smart Classroom solutions expertise",
+      "20+ years heritage (older than RDP)",
+      "Upcoming Bhopal IT Park facility"
+    ]
+  },
+  "recommended_sections": [
+    {
+      "section": "Hero",
+      "inspiration": "RDP.in gradient + Netweb isometric",
+      "content": "Video background or 3D animation of products, 'Technologies for Tomorrow' headline, Make in India badge"
+    },
+    {
+      "section": "Stats Bar",
+      "inspiration": "RDP.in animated counters",
+      "content": "20+ Years | 5000+ Clients | 50+ Product Models | Pan India Support"
+    },
+    {
+      "section": "Partners",
+      "inspiration": "RDP.in badge row",
+      "content": "Intel, AMD, Microsoft, NVIDIA, Make in India logos"
+    },
+    {
+      "section": "Products",
+      "inspiration": "Netweb category cards + RDP product grids",
+      "content": "Workstations, Desktops, AIO, Mini-PC, KIOSK, Servers with isometric icons"
+    },
+    {
+      "section": "Solutions",
+      "inspiration": "Netweb solution pages",
+      "content": "Smart Classroom, Government, Healthcare, Banking verticals"
+    },
+    {
+      "section": "Why HLBS",
+      "inspiration": "RDP trust indicators",
+      "content": "Make in India, ISO Certified, 3-Year Warranty, Bhopal Based"
+    },
+    {
+      "section": "Manufacturing",
+      "inspiration": "Netweb technical depth",
+      "content": "Factory images, assembly line, R&D lab, quality control"
+    },
+    {
+      "section": "Testimonials",
+      "inspiration": "RDP.in client focus",
+      "content": "Government clients, Education sector testimonials"
+    }
+  ]
+}
